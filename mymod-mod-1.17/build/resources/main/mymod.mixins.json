@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcbedev.mymod.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "MymodMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
